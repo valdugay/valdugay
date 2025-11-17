@@ -21,7 +21,7 @@ Built using **Mistral’s function-calling API**, GitHub Actions, and a custom L
 ### 🧬 [OMICS Lung Cancer](https://github.com/valdugay/OMICS_Lung_Cancer)
 **Description:** Exploratory study on transcriptomic and clinical data to detect dataset biases.  
 This project represents only *one part* of a larger research effort on gene–disease association modeling,  
-where another major component focused on **causality analysis**, contributing to a **Q1 journal submission**.  
+where another major component focused on **causality analysis**, contributing research article currently under review in a **Q1 journal**.  
 **Tech stack:** Python, Jupyter Notebook, Data Science  
 **Repo:** https://github.com/valdugay/OMICS_Lung_Cancer
 
@@ -48,11 +48,12 @@ Built around **Django**, **Azure Web App deployment**, continuous integration, a
 Developed advanced agentic features using **LangChain**, **LangGraph**, **RAG pipelines**, and **Mistral API**.  
 **Tech stack:** Django, Azure Web App, CI/CD, LangChain, LangGraph, RAG, Mistral API
 
-### 🧒 Child Mind Institute — Gene–Disease Prediction
-**Description:** Research project involving predictive modeling for gene–disease associations.  
-Worked on model development, literature review, biological consistency verification,  
-and contributed to a research publication submitted to a **Q1 journal**.  
-**Tech stack:** Python, ML, Bioinformatics, Research workflows
+### 🌐 Problematic Internet Use Prediction (Kaggle Competition)
+**Description:** Built machine learning models for **multi-output classification** on behavioral survey data.  
+Implemented **autoencoders** for dimensionality reduction and used **ensemble methods** (including gradient boosting)  
+to improve predictive performance and model robustness.  
+**Tech stack:** Python, Scikit-learn, Autoencoders, Gradient Boosting, ML Engineering
+
 
 ### 🔤 Character-Level GPT Implementation
 **Description:** Implementation of a simplified GPT-1 architecture **from scratch in PyTorch**:  
