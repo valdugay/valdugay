@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Valentin
 
-<!--
-**valdugay/valdugay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Logo_CentraleSup%C3%A9lec.svg/1280px-Logo_CentraleSup%C3%A9lec.svg.png" alt="CentraleSupélec" width="180"/>
 
-Here are some ideas to get you started:
+### 🎓 Final-year Engineering Student @ CentraleSupélec  
+**Specialization: Data Science & Artificial Intelligence**  
+Double degree at **EMLV Business School** (Management & Business Strategy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently looking for a **6-month end-of-study internship starting April 2026**, ideally in  
+**Machine Learning, AI Engineering, Deep Learning, or Applied Research**.
+
+---
+
+### 🚀 What I’m working on
+- ML/DL systems for real-world use cases (vision, time series, NLP)  
+- Agentic AI pipelines (self-improving agents, reasoning, autonomous workflows)  
+- Full-stack AI products (Azure, FastAPI, LangChain/LangGraph, RAG)  
+- Research-oriented modeling (bioinformatics, gene–disease prediction)
+
+---
+
+### 📫 Contact
+- **Email:** valentindugay@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/valentindugay/
